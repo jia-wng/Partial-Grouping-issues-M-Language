@@ -29,4 +29,6 @@ let
 in
 
     #"Step8:CombineAll Tables"
-    
+ 
+# Result
+<img width="80" alt="image" src="https://user-images.githubusercontent.com/84840321/158979192-0eace511-1d41-4a01-9165-ec088725ca1d.png">
